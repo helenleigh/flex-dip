@@ -6,6 +6,7 @@ The files used to make the flex DIP breakout board are all above. Here are the s
 
 Slides
 
+https://docs.google.com/presentation/d/17nkims0MiGOawY8L7tmUpXSfODSmaSLY-HEM45Ecw_s/edit?usp=sharing
 
 KOBAKANT
 
