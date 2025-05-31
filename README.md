@@ -8,6 +8,10 @@ The files used to make the flex DIP breakout board are all above. Here are the s
 
 https://docs.google.com/presentation/d/17nkims0MiGOawY8L7tmUpXSfODSmaSLY-HEM45Ecw_s/edit?usp=sharing
 
+### Instructions
+
+https://docs.google.com/document/d/1NX4CBJA22eWM2ed_EccGdvfCC9_Fk-VF2sbTu3nZUZQ/edit?usp=sharing
+
 ### KOBAKANT
 
 https://web.archive.org/web/sitemap/https://www.kobakant.at/DIY/
