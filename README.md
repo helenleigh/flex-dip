@@ -28,6 +28,11 @@ https://www.liza-stark.com/projects/zines
 https://www.instructables.com/How-to-Work-With-Conductive-Fabric/
 https://lara-grant.com/
 
+### Rodney Trusty
+
+https://www.youtube.com/watch?v=YerhoMnnhzM
+https://www.instagram.com/rodneytrusty/?hl=en
+
 ### Nicholas Collins
 
 https://www.nicolascollins.com/handmade.htm
